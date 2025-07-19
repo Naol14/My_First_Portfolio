@@ -1,1 +1,1 @@
-<p>This is palce where I put all my html files. They are results of my html practice and showcase the path I am going through.</p>
+Place to store my html files. This files are showcase of my endeavor to master html.
